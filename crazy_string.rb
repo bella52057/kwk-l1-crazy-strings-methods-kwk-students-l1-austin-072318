@@ -1,3 +1,3 @@
 def crazy_strings("Hello","Friends")
-  "Hello.reverse.uppercase
+  if "Hello".reverse.uppercase
 end
